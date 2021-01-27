@@ -1,6 +1,8 @@
 # Exercise-01c-Guessing-Game
 Exercise for MSCH-C220, 27 January 2020
 
+A demonstration of this exercise is available at [https://youtu.be/zE7Wk0DsMtk](https://youtu.be/zE7Wk0DsMtk).
+
 This exercise is an opportunity for you to create a (simple) game in Python. I understand that this might feel intimidating, but we will take time to explain every line of this program in a way that you can (hopefully) understand.
 
 First, Fork the repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01c-Guessing-Game. 
