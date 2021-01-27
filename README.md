@@ -33,7 +33,7 @@ This isn't a very fun game; how could you make it more interesting? For extra cr
 
 Hint, to assign a random number to a variable, type:
 ```
-number = random.randrange(1,10)
+number = random.randrange(1,11)
 ```
 
 Save these files and quit Visual Studio Code. In GitHub Desktop, you should now see main.py and main2.py (if you did the extra credit) highlighted. Add a Summary message at the bottom of that panel, and push the "Commit to master" button. On the right side of the top, black panel, you should see a button labeled "Push origin". Press that now.
