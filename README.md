@@ -43,7 +43,7 @@ If you return to and refresh your GitHub repository page, you should now see tha
 Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/[username]/Exercise-01c-Guessing-Game) on Canvas.
 
 The final state of the file should be as follows (replacing my information with yours):
-
+```
 # Exercise-01c-Guessing-Game
 Exercise for MSCH-C220, 27 January 2020
 
@@ -60,3 +60,4 @@ None
 
 ## Created by 
 Jason Francis
+```
